@@ -23,7 +23,7 @@ The **Airbnb Clone Project** is designed to simulate the core functionality of A
 
 ## 🛠️ Technology Stack
 - **Django** → Backend framework for building APIs and handling business logic.  
-- **MySQL** → Relational database for managing structured data like users, properties, and bookings.  
+- **PostgreSQL** → Relational database for managing structured data like users, properties, and bookings.  
 - **GraphQL** → Enables flexible queries and efficient data fetching for the client side.  
 - **Docker** → Ensures consistent development and deployment environments.  
 - **GitHub Actions** → Automates testing, linting, and deployment pipelines.  
@@ -87,5 +87,3 @@ The **Airbnb Clone Project** is designed to simulate the core functionality of A
 - **GitHub Actions** → Workflow automation for tests & deployment.  
 - **Docker** → Containerized app for consistency across environments.  
 - **(Optional: Heroku / AWS / Render)** → Hosting and deployment.  
-
----
